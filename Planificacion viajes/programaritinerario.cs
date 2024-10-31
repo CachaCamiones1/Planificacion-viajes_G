@@ -20,6 +20,7 @@ namespace Planificacion_viajes
         public programaritinerario()
         {
             InitializeComponent();
+            CargarLugaresP();
         }
 
         private void textBox5_TextChanged(object sender, EventArgs e)
