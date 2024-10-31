@@ -109,9 +109,13 @@
             this.label3.Location = new System.Drawing.Point(45, 267);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
+
+            this.label3.Size = new System.Drawing.Size(327, 42);
+
             this.label3.Size = new System.Drawing.Size(285, 34);
+
             this.label3.TabIndex = 6;
-            this.label3.Text = "Actividades pendientes";
+            this.label3.Text = "Actividades a realizar";
             // 
             // label4
             // 
